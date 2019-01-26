@@ -1,39 +1,5 @@
-# CSCI 40500/77100: Software Engineering/Contemporary Application Development
+# CSCI 46000/79521: Advanced Programming Languages
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
-
-## Table of Contents
-<!--ts-->
-   * [CSCI 40500/77100: Software Engineering/Contemporary Application Development](#csci-4050077100-software-engineeringcontemporary-application-development)
-      * [Details](#details)
-      * [Course Description](#course-description)
-      * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
-      * [Prerequisite](#prerequisite)
-      * [Textbook](#textbook)
-      * [Grading](#grading)
-      * [Key Dates](#key-dates)
-      * [Homework](#homework)
-         * [Notes](#notes)
-      * [Graduate Version (77100)](#graduate-version-77100)
-      * [Quizzes](#quizzes)
-      * [Exams](#exams)
-      * [Attendance](#attendance)
-      * [Academic Violations](#academic-violations)
-      * [Discussion and Q&amp;A](#discussion-and-qa)
-      * [Email](#email)
-      * [Bulletin Board](#bulletin-board)
-      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
-      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
-      * [Special Needs](#special-needs)
-      * [ADA Compliance](#ada-compliance)
-      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-      * [Sexual Misconduct](#sexual-misconduct)
-      * [Syllabus Change Policy](#syllabus-change-policy)
-      * [Instructor Biography](#instructor-biography)
-      * [Credits](#credits)
-
-<!-- Added by: rk1424, at: 2018-08-28T15:29-04:00 -->
-
-<!--te-->
 
 ## Details 
 
@@ -43,15 +9,14 @@ Field | Value
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | MW 5:45-6:45 pm or [by appointment](http://khatchad.setmore.com)
-**Semester:** | Fall 2018
-**Section:** | CSCI 40500-01/CSCI 77100-01
+**Office hours:** | Th 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
+**Semester:** | Spring 2019
+**Section:** | CSCI 46000/79521-01
 
 ## Course Description
 
-This course is intended to be an introductory survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the efficient engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
+This course is intended to be a survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the design and implementation of modern programming languages. This includes the understanding and appreciation of topics in designing and implementing modern programming languages such as attribute grammars, operational, axiomatic, and denotational semantics, (static and dynamic) type systems, and functional programming and its relationship with mainstream Object-Oriented languages, frameworks, and libraries (APIs).
 
-Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is not a "programming" course per se, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of computer science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
 
 ## Outline and Schedule of Course Topics
 
