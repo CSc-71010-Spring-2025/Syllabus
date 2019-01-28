@@ -56,8 +56,8 @@ The Study of Programming Languages | Stansifer | 9780137269365
 
 Category | Percentage
 -------- | ----------
-Assignments | 25%
-Project | 20%
+Assignments | 20%
+Project | 25%
 Participation | 5%
 Midterm Exam | 25%
 Final Exam | 25%
