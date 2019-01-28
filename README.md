@@ -20,40 +20,49 @@ This course is intended to be a survey on the fundamental concepts and principle
 
 ## Outline and Schedule of Course Topics
 
-The following topics will be covered in the given order. Please note that this schedule is tentative and is meant to serve only as a guide. "Handouts" means that notes and/or readings will be given in class. Although there are fourteen class meeting weeks, one week has been reserved for a midterm and final exam review.
+Please note that this schedule is tentative and is meant to serve only as a guide:
 
-Week(s) | Topic | Reading Chapter(s)
-------- | ----- | ------------------
-1 | Introduction | 1
-2 | Software processes | 2
-3 | Agile software development | 3
-4-5 | Requirements engineering | 4
-6 | System modeling | 5
-7 | Architectural design | 6
-8-9 | Design and implementation | 7
-10-11 | Software testing | 8
-12 | Software evolution | 9
-**time permitting** | Software analysis and automated refactoring | Handouts
-**time permitting** | Configuration management | 25
+- Attribute Grammars 
+- Operational Semantics for Lisp
+- Operational Semantics for an Imperative Language	
+- Axiomatic Semantics
+- Type systems.
+- Concurrency and data structures for concurrent and distributed computing.
+- MapReduce and Streaming APIs for mainstream Object-Oriented languages.
 
 ## Prerequisite 
 
-CSCI 33500/equivalent.
+- CSCI 26500: Computer Theory or equivalent.
+- CSCI 33500: Software Analysis and Design III or equivalent.
 
-## Textbook
+## [Textbooks](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
 
-[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A copy is on reserve in the library. Please note that the **10th edition** is required.
+While there are no required texts, there are readings from the books listed below. The books without links have been requested from the main campus library as reserves. I will let you know when they become available:
+
+Title | Author | ISBN
+-- | -- | --
+Formal Specification of Programming Languages: A Panoramic Primer | Pagan | 9780133290523
+[Formal Syntax and Semantics of Programming Languages](http://www.divms.uiowa.edu/~slonnegr/plf/Book) | Slonneger and Kurtz | 9780201656978
+The Formal Semantics of Programming Languages: An Introduction | Winskel | 9780262231695
+The Study of Programming Languages | Stansifer | 9780137269365
+[Types and Programming Languages](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=TN_pq_ebook_centralEBC3338823&context=PC&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) | Pierce | 9780262162098
+[Lisp 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf) | McCarthy et al. | 9780262130110
+[Semantics with Applications: A Formal Introduction](http://www.cs.kun.nl/~hubbers/courses/sc_1718/materiaal/wiley.pdf) | Nielson and Nielson | 9780471929802
+[Java SE8 for the Really Impatient](https://doc.lagout.org/programmation/Java/Java%20SE%208%20for%20the%20Really%20Impatient%20%5BHorstmann%202014-01-24%5D.pdf) | Horstmann | 9780321927767
+[Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
+
 
 ## Grading
 
 Category | Percentage
 -------- | ----------
-Assignments | 15%
-Quizzes | 10%
+Assignments | 25%
+Project | 20%
 Participation | 5%
-Midterm Exam | 35%
-Final Exam (non-accumulative) | 35%
+Midterm Exam | 25%
+Final Exam | 25%
 
+<!--
 ## Key Dates
 
 Event | Date
@@ -61,10 +70,11 @@ Event | Date
 Midterm Exam | October 10 (tentative)
 Withdrawal Deadline | November 6
 Final Exam | December 17 6:20-8:20 pm in West Bldg W410
+-->
 
 ## Homework
 
-Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material.
+The course will include several written assignments and one large programming project, possibly submitted in pieces. Each will be assigned in Blackboard along with submission instructions. Assignments will be uploaded to Blackboard and the programming project will be uploaded to GitHub classroom and submitted via gradescope. The exact instructions will follow. The project must include command-line instructions on how to run the program.
 
 ### Notes
 
@@ -72,14 +82,6 @@ Homework will be assigned after each chapter read. It may include questions at t
 - **Late assignments will be penalized.**
 - No extensions will be given for extra credit assignments.
 - Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
-
-## Graduate Version (77100)
-
-The graduate version of the course will be more involved with more in-depth assignments and/or readings, including research papers.
-
-## Quizzes
-
-Quizzes will also be given after each chapter read. Quiz deadlines will be given in class. No make-ups will be given for quizzes.
 
 ## Exams
 
@@ -100,7 +102,9 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
+<!--
 Find our class page [here](http://piazza.com/hunter.cuny/fall2018/csci40500771100/home) and [sign up](https://piazza.com/hunter.cuny/fall2018/csci40500771100) for the forum.
+-->
 
 ## Email
 
@@ -172,6 +176,8 @@ Except for changes that substantially affect implementation of the evaluation (g
 
 Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
+<!--
 ## Credits
 
 Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
+-->
