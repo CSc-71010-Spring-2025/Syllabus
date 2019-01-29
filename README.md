@@ -41,7 +41,7 @@ While there are no required texts, there are readings from the books listed belo
 
 Title | Author | ISBN
 -- | -- | --
-Formal Specification of Programming Languages: A Panoramic Primer | Pagan | 9780133290523
+[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=CUNY_ALEPH001651241&context=L&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf) | Pagan | 9780133290523
 [Formal Syntax and Semantics of Programming Languages](http://www.divms.uiowa.edu/~slonnegr/plf/Book) | Slonneger and Kurtz | 9780201656978
 The Formal Semantics of Programming Languages: An Introduction | Winskel | 9780262231695
 The Study of Programming Languages | Stansifer | 9780137269365
