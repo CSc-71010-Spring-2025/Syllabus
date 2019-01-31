@@ -30,7 +30,7 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Concurrency and data structures for concurrent and distributed computing.
 - MapReduce and Streaming APIs for mainstream Object-Oriented languages.
 
-## Prerequisite 
+## Prerequisites
 
 - CSCI 26500: Computer Theory or equivalent.
 - CSCI 33500: Software Analysis and Design III or equivalent.
