@@ -1,6 +1,34 @@
 # CSCI 46000/79521: Advanced Programming Languages
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
 
+## Table of Contents
+
+   * [CSCI 46000/79521: Advanced Programming Languages](#csci-4600079521-advanced-programming-languages)
+      * [Details](#details)
+      * [Course Description](#course-description)
+      * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
+      * [Prerequisites](#prerequisites)
+      * [<a href="https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951" rel="nofollow">Textbooks</a>](#textbooks)
+      * [Grading](#grading)
+      * [Homework](#homework)
+         * [Notes](#notes)
+      * [Exams](#exams)
+      * [Attendance](#attendance)
+      * [Academic Violations](#academic-violations)
+      * [Discussion and Q&amp;A](#discussion-and-qa)
+      * [Email](#email)
+      * [Bulletin Board](#bulletin-board)
+      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
+      * [Special Needs](#special-needs)
+      * [ADA Compliance](#ada-compliance)
+      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+      * [Sexual Misconduct](#sexual-misconduct)
+      * [Syllabus Change Policy](#syllabus-change-policy)
+      * [Instructor Biography](#instructor-biography)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## Details 
 
 Field | Value
