@@ -102,9 +102,7 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-<!--
-Find our class page [here](http://piazza.com/hunter.cuny/fall2018/csci40500771100/home) and [sign up](https://piazza.com/hunter.cuny/fall2018/csci40500771100) for the forum.
--->
+Find our class page [here](http://piazza.com/hunter.cuny/spring2019/csci4600079521/home) and [sign up](https://piazza.com/hunter.cuny/spring2019/csci4600079521) for the forum.
 
 ## Email
 
