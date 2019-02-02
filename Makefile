@@ -1,3 +1,4 @@
+PDF=csci_46000-79521-01_sp2019_syllabus.pdf
 open:
 	gio open `git remote get-url origin`'#readme'
 html:
@@ -5,6 +6,8 @@ html:
 preview-html: html
 	gio open README.html
 pdf:
-	pandoc -f markdown_github README.md -o csci_40500-01-77100-01_fa2018_syllabus.pdf
+	pandoc -f gfm README.md -o $(PDF)
 preview-pdf: pdf
-	xdg-open csci_40500-01-77100-01_fa2018_syllabus.pdf
+	gio open $(PDF)
+toc:
+	gh-md-toc README.md | xclip -selection clipboard
