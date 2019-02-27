@@ -40,6 +40,7 @@ Field | Value
 **Office hours:** | Th 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
 **Semester:** | Spring 2019
 **Section:** | CSCI 46000/79521-01
+**Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
 
 ## Course Description
 
