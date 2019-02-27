@@ -41,6 +41,7 @@ Field | Value
 **Semester:** | Spring 2019
 **Section:** | CSCI 46000/79521-01
 **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
+**Grader office hours:** | [By appointment](https://khatchad.setmore.com/resourcebookingpage/r5cc21551300133063)
 
 ## Course Description
 
