@@ -10,6 +10,7 @@
       * [Prerequisites](#prerequisites)
       * [<a href="https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951" rel="nofollow">Textbooks</a>](#textbooks)
       * [Grading](#grading)
+      * [Key Dates](#key-dates)
       * [Homework](#homework)
          * [Notes](#notes)
       * [Exams](#exams)
@@ -92,15 +93,13 @@ Participation | 5%
 Midterm Exam | 25%
 Final Exam | 25%
 
-<!--
 ## Key Dates
 
 Event | Date
 ----- | ----
-Midterm Exam | October 10 (tentative)
-Withdrawal Deadline | November 6
-Final Exam | December 17 6:20-8:20 pm in West Bldg W410
--->
+Midterm Exam | March 27
+Withdrawal Deadline | April 1
+Final Exam | May 22 5:20-7:20 pm
 
 ## Homework
 
