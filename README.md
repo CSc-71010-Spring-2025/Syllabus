@@ -53,13 +53,13 @@ This course is intended to be a survey on the fundamental concepts and principle
 
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
-- Attribute Grammars 
-- Operational Semantics for Lisp
-- Operational Semantics for an Imperative Language	
-- Axiomatic Semantics
-- Type systems.
-- Concurrency and data structures for concurrent and distributed computing.
-- MapReduce and Streaming APIs for mainstream Object-Oriented languages.
+- Attribute grammars 
+- Operational semantics for Lisp
+- Operational semantics for an imperative language	
+- Axiomatic semantics
+- Type systems
+- Concurrency and data structures for concurrent and distributed computing
+- MapReduce and Streaming APIs for mainstream Object-Oriented languages
 
 ## Prerequisites
 
