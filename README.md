@@ -66,7 +66,7 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - CSCI 26500: Computer Theory or equivalent.
 - CSCI 33500: Software Analysis and Design III or equivalent.
 
-## [Textbooks](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
+## [Textbooks and Materials](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
 
 While there are no required texts, there are readings from the books listed below. The books without links have been requested from the main campus library as reserves. I will let you know when they become available:
 
@@ -82,6 +82,7 @@ The Study of Programming Languages | Stansifer | 9780137269365
 [Java SE8 for the Really Impatient](https://doc.lagout.org/programmation/Java/Java%20SE%208%20for%20the%20Really%20Impatient%20%5BHorstmann%202014-01-24%5D.pdf) | Horstmann | 9780321927767
 [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
 
+Please also refer to [my notes on type constraints][type constraints].
 
 ## Grading
 
@@ -208,3 +209,5 @@ Raffi Khatchadourian is an Assistant Professor in the Computer Science Departmen
 
 Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
 -->
+
+[type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
