@@ -1,4 +1,4 @@
-PDF=csci_46000-79521-01_sp2019_syllabus.pdf
+PDF=c_sc_71010-1_sp2020_syllabus.pdf
 open:
 	gio open `git remote get-url origin`'#readme'
 html:

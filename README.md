@@ -1,55 +1,23 @@
-# CSCI 46000/79521: Advanced Programming Languages
-3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
-
-## Table of Contents
-
-   * [CSCI 46000/79521: Advanced Programming Languages](#csci-4600079521-advanced-programming-languages)
-      * [Details](#details)
-      * [Course Description](#course-description)
-      * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
-      * [Prerequisites](#prerequisites)
-      * [<a href="https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951" rel="nofollow">Textbooks</a>](#textbooks)
-      * [Grading](#grading)
-      * [Key Dates](#key-dates)
-      * [Homework](#homework)
-         * [Notes](#notes)
-      * [Exams](#exams)
-      * [Attendance](#attendance)
-      * [Academic Violations](#academic-violations)
-      * [Discussion and Q&amp;A](#discussion-and-qa)
-      * [Email](#email)
-      * [Bulletin Board](#bulletin-board)
-      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
-      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
-      * [Special Needs](#special-needs)
-      * [ADA Compliance](#ada-compliance)
-      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-      * [Sexual Misconduct](#sexual-misconduct)
-      * [Syllabus Change Policy](#syllabus-change-policy)
-      * [Instructor Biography](#instructor-biography)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+# C SC 71010: Programming Languages
+3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center.
 
 ## Details 
 
 Field | Value
 ----- | -----
-**Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
+**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
 **Office:** | 1090H Hunter North Building
-**Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
+**Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | Th 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
-**Semester:** | Spring 2019
-**Section:** | CSCI 46000/79521-01
-**Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
-**Grader office hours:** | [By appointment](https://khatchad.setmore.com/resourcebookingpage/r5cc21551300133063)
+**Office hours:** | F 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
+**Semester:** | Spring 2020
+**Section:** | C SC 71010 - 1
 
 ## Course Description
 
 This course is intended to be a survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the design and implementation of modern programming languages. This includes the understanding and appreciation of topics in designing and implementing modern programming languages such as attribute grammars, operational, axiomatic, and denotational semantics, (static and dynamic) type systems, and functional programming and its relationship with mainstream Object-Oriented languages, frameworks, and libraries (APIs).
 
-
-## Outline and Schedule of Course Topics
+## Topics
 
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
@@ -59,32 +27,42 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Axiomatic semantics
 - Type systems
 - Concurrency and data structures for concurrent and distributed computing
-- MapReduce and Streaming APIs for mainstream Object-Oriented languages
+- Streaming APIs for mainstream Object-Oriented languages
+- Programming language concepts for Machine Learning (ML) systems.
 
-## Prerequisites
+## Suggested Previous Courses
 
-- CSCI 26500: Computer Theory or equivalent.
-- CSCI 33500: Software Analysis and Design III or equivalent.
+- C Sc 70010: Algorithms
+- Computer Theory or equivalent.
 
-## [Textbooks and Materials](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
+## Textbooks and Materials
 
-While there are no required texts, there are readings from the books listed below. The books without links have been requested from the main campus library as reserves. I will let you know when they become available:
+While there are no required texts, there are readings from the books listed below. All books are available at the library:
 
 Title | Author | ISBN
 -- | -- | --
-[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=CUNY_ALEPH001651241&context=L&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
-[Formal Syntax and Semantics of Programming Languages](http://www.divms.uiowa.edu/~slonnegr/plf/Book) | Slonneger and Kurtz | 9780201656978
-The Formal Semantics of Programming Languages: An Introduction | Winskel | 9780262231695
-The Study of Programming Languages | Stansifer | 9780137269365
-[Types and Programming Languages](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=TN_pq_ebook_centralEBC3338823&context=PC&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) | Pierce | 9780262162098
-[Lisp 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf) | McCarthy et al. | 9780262130110
-[Semantics with Applications: A Formal Introduction](http://www.cs.kun.nl/~hubbers/courses/sc_1718/materiaal/wiley.pdf) | Nielson and Nielson | 9780471929802
-[Java SE8 for the Really Impatient](https://doc.lagout.org/programmation/Java/Java%20SE%208%20for%20the%20Really%20Impatient%20%5BHorstmann%202014-01-24%5D.pdf) | Horstmann | 9780321927767
-[Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
+[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH001651241) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
+[Formal Syntax and Semantics of Programming Languages](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009388405) ([online](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Formal%20Syntax%20and%20Semantics%20of%20Programming%20Languages%20-%20Kenneth%20Slonneger.pdf)) | Slonneger and Kurtz | 9780201656978
+[The Formal Semantics of Programming Languages: An Introduction](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH003309033) | Winskel | 9780262231695
+[The Study of Programming Languages](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009388407) | Stansifer | 9780137269365
+[Types and Programming Languages](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH004613810) ([ebook](https://onesearch.cuny.edu/permalink/f/1hllol0/TN_pq_ebook_centralEBC3338823)) | Pierce | 9780262162098
+[Lisp 1.5 Programmer's Manual](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009406557) ([ebook](https://onesearch.cuny.edu/permalink/f/1hllol0/TN_dtic_sAD0406138), [online](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf)) | McCarthy et al. | 9780262130110
+[Semantics with Applications: A Formal Introduction](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009406540) ([online](http://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf)) | Nielson and Nielson | 9780471929802
+[Core Java SE 9 for the Impatient](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009063054) ([online](https://github.com/ppatil9096/books/blob/master/Core%20Java%20SE%209%20for%20the%20Impatient%2C%202nd%20Edition.pdf)) | Horstmann | 9780134694726
+[Structure and Interpretation of Computer Programs](https://onesearch.cuny.edu/permalink/f/6kkf0d/CUNY_ALEPH003877086) ([online](https://web.mit.edu/alexmv/6.037/sicp.pdf)) | Sussman and Abelson | 9780070004849
 
 Please also refer to [my notes on type constraints][type constraints].
 
-## Grading
+## Learning Goals
+
+- Be able to write attribute grammars and derivations of simple programs.
+- Be able to understand and define basic operational semantics.
+- Be able to understand and define basic axiomatic semantics.
+- Be able to formulate and prove type safety theorems.
+- Be able to formulate and reason about key object oriented programming features.
+- Be able to formulate and reason about key concurrency programming features.
+
+## Assessment 
 
 Category | Percentage
 -------- | ----------
@@ -98,9 +76,12 @@ Final Exam | 25%
 
 Event | Date
 ----- | ----
-Midterm Exam | March 27
+Presidents Day (no class) | Feb 17
+Midterm Exam | March 23
+Recess | April 8 - April 16
 Withdrawal Deadline | April 1
-Final Exam | May 22 5:20-7:20 pm
+Reading Day | May 15
+Final Exam | ? (May 16-22)
 
 ## Homework
 
@@ -122,17 +103,20 @@ Test make-ups will be given if and only if:
 
 ## Attendance
 
-Attendance is expected for *each and every class* meeting. Each student is allowed five (5) absences for any reason except on days when there are presentations or exams. Absences exceeding the allowance or absence on a presentation day for any reason results in a 0.2% deduction from the attendance grade.
+Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time.
 
 ## Academic Violations
 
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit).
+The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others, any submitted work in this course must be the result of *individual* effort *only*. Students are *strongly* advised to read the following resources regarding academic integrity:
+
+- [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
+- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
 
 ## Discussion and Q&A
 
-This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
+This term we will be using [Piazza](http://piazza.com/gc.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our class page [here](http://piazza.com/hunter.cuny/spring2019/csci4600079521/home) and [sign up](https://piazza.com/hunter.cuny/spring2019/csci4600079521) for the forum.
+Find our class page [here](https://piazza.com/gc.cuny/spring2020/csc71010/home) and [sign up](https://piazza.com/gc.cuny/spring2020/csc71010) for the forum.
 
 ## Email
 
@@ -142,13 +126,9 @@ Emails to the instructor must be via a CUNY email addresses for FERPA reasons. P
 
 You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
-## Computer Science Facilities & Labs 
-
-All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
-
 ## Counseling & Wellness Services
 
-Counseling & Wellness Services (CWS) provides mental health, health and wellness services aimed at enhancing students' quality of life and maximizing personal and academic growth and development. More information can be found on the [Counseling & Wellness Services website](http://www.hunter.cuny.edu/studentservices/counseling-and-wellness).
+The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and a variety of programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services).
 
 ## Special Needs
 
@@ -156,7 +136,7 @@ Students with special needs should see me for accommodation.
 
 ## ADA Compliance
 
-In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and / or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and / or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. More information can be found on the [Disabilities Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Disability-Services).
 
 ## Family Educational Rights and Privacy Act (FERPA) 
 
@@ -190,15 +170,20 @@ Washington, D.C. 20202-8520
 
 ## Sexual Misconduct
 
-In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
+Every member of The City University of New York community, including students, employees and visitors, deserves the opportunity to live, learn and work free from sexual harassment, gender - based harassment and sexual violence. Accordingly, CUNY is committed to:
 
-a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
+1. Defining conduct that constitutes prohibited Sexual Misconduct;
+1. Providing clear guidelines for students, employees and visitors on how to report incidents of Sexual Misconduct and a commitment that any complaints will be handled respectfully;
+1. Promptly responding to and investigating allegations of Sexual Misconduct, pursuing disciplinary action when appropriate, referring the incident to local law enforcement when appropriate, and taking action to investigate and address any allegations of retaliation;
+1. Providing ongoing assistance and support to students and employees who make allegations of Sexual Misconduct;
+1. Providing awareness and prevention information on Sexual Misconduct, including widely disseminating this policy, as well as a “students’ bill of rights” and implementing training and educational programs on Sexual Misconduct to college constituencies; and
+1. Gathering and analyzing information and data that will be reviewed in order to improve safety, reporting, responsiveness and the resolution of incidents.
 
-b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
+Please review the [Sexual Misconduct CUNY Policy][https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/HR/Policy/Policy-Sexual-Misconduct.pdf?ext=.pdf].
 
 ## Syllabus Change Policy
 
-Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will find out about changes to the syllabus via class attendance.
+Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will be informed about changes to the syllabus via class attendance.
 
 ## Instructor Biography
 
