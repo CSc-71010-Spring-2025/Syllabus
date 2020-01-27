@@ -1,6 +1,34 @@
 # C SC 71010: Programming Languages
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center.
 
+## Table of Contents
+
+* [Details](#details)
+* [Course Description](#course-description)
+* [Topics](#topics)
+* [Suggested Previous Courses](#suggested-previous-courses)
+* [Textbooks and Materials](#textbooks-and-materials)
+* [Learning Goals](#learning-goals)
+* [Assessment](#assessment)
+* [Key Dates](#key-dates)
+* [Homework](#homework)
+    * [Notes](#notes)
+* [Exams](#exams)
+* [Attendance](#attendance)
+* [Academic Violations](#academic-violations)
+* [Discussion and Q&amp;A](#discussion-and-qa)
+* [Email](#email)
+* [Bulletin Board](#bulletin-board)
+* [Counseling &amp; Wellness Services](#counseling--wellness-services)
+* [Special Needs](#special-needs)
+* [ADA Compliance](#ada-compliance)
+* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+* [Sexual Misconduct](#sexual-misconduct)
+* [Syllabus Change Policy](#syllabus-change-policy)
+* [Instructor Biography](#instructor-biography)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## Details 
 
 Field | Value
