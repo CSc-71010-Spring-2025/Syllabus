@@ -217,10 +217,8 @@ Except for changes that substantially affect implementation of the evaluation (g
 
 Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. His research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
-<!--
 ## Credits
 
-Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
--->
+Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
