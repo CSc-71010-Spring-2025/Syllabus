@@ -10,6 +10,7 @@
       * [Prerequisites](#prerequisites)
       * [<a href="https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951" rel="nofollow">Textbooks</a>](#textbooks)
       * [Grading](#grading)
+      * [Key Dates](#key-dates)
       * [Homework](#homework)
          * [Notes](#notes)
       * [Exams](#exams)
@@ -51,20 +52,20 @@ This course is intended to be a survey on the fundamental concepts and principle
 
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
-- Attribute Grammars 
-- Operational Semantics for Lisp
-- Operational Semantics for an Imperative Language	
-- Axiomatic Semantics
-- Type systems.
-- Concurrency and data structures for concurrent and distributed computing.
-- MapReduce and Streaming APIs for mainstream Object-Oriented languages.
+- Attribute grammars 
+- Operational semantics for Lisp
+- Operational semantics for an imperative language	
+- Axiomatic semantics
+- Type systems
+- Concurrency and data structures for concurrent and distributed computing
+- MapReduce and Streaming APIs for mainstream Object-Oriented languages
 
 ## Prerequisites
 
 - CSCI 26500: Computer Theory or equivalent.
 - CSCI 33500: Software Analysis and Design III or equivalent.
 
-## [Textbooks](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
+## [Textbooks and Materials](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
 
 While there are no required texts, there are readings from the books listed below. The books without links have been requested from the main campus library as reserves. I will let you know when they become available:
 
@@ -80,6 +81,8 @@ The Study of Programming Languages | Stansifer | 9780137269365
 [Java SE8 for the Really Impatient](https://doc.lagout.org/programmation/Java/Java%20SE%208%20for%20the%20Really%20Impatient%20%5BHorstmann%202014-01-24%5D.pdf) | Horstmann | 9780321927767
 [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
 
+Please also refer to [my notes on type constraints][type constraints].
+
 ## Grading
 
 Category | Percentage
@@ -90,15 +93,13 @@ Participation | 5%
 Midterm Exam | 25%
 Final Exam | 25%
 
-<!--
 ## Key Dates
 
 Event | Date
 ----- | ----
-Midterm Exam | October 10 (tentative)
-Withdrawal Deadline | November 6
-Final Exam | December 17 6:20-8:20 pm in West Bldg W410
--->
+Midterm Exam | March 27
+Withdrawal Deadline | April 1
+Final Exam | May 22 5:20-7:20 pm
 
 ## Homework
 
@@ -205,3 +206,5 @@ Raffi Khatchadourian is an Assistant Professor in the Computer Science Departmen
 ## Credits
 
 Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
+
+[type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
