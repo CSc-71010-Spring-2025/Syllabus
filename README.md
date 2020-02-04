@@ -47,7 +47,6 @@ Field | Value
 
 This course is intended to be a survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the design and implementation of modern programming languages. This includes the understanding and appreciation of topics in designing and implementing modern programming languages such as attribute grammars, operational, axiomatic, and denotational semantics, (static and dynamic) type systems, and functional programming and its relationship with mainstream Object-Oriented languages, frameworks, and libraries (APIs).
 
-
 ## Outline and Schedule of Course Topics
 
 Please note that this schedule is tentative and is meant to serve only as a guide:
@@ -80,7 +79,6 @@ The Study of Programming Languages | Stansifer | 9780137269365
 [Semantics with Applications: A Formal Introduction](http://www.cs.kun.nl/~hubbers/courses/sc_1718/materiaal/wiley.pdf) | Nielson and Nielson | 9780471929802
 [Java SE8 for the Really Impatient](https://doc.lagout.org/programmation/Java/Java%20SE%208%20for%20the%20Really%20Impatient%20%5BHorstmann%202014-01-24%5D.pdf) | Horstmann | 9780321927767
 [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
-
 
 ## Grading
 
@@ -204,8 +202,6 @@ Except for changes that substantially affect implementation of the evaluation (g
 
 Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. His research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
-<!--
 ## Credits
 
-Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
--->
+Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
