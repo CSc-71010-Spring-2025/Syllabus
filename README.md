@@ -175,7 +175,7 @@ Every member of The City University of New York community, including students, e
 1. Providing awareness and prevention information on Sexual Misconduct, including widely disseminating this policy, as well as a “students’ bill of rights” and implementing training and educational programs on Sexual Misconduct to college constituencies; and
 1. Gathering and analyzing information and data that will be reviewed in order to improve safety, reporting, responsiveness and the resolution of incidents.
 
-Please review the (Sexual Misconduct CUNY Policy)[https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/HR/Policy/Policy-Sexual-Misconduct.pdf?ext=.pdf].
+Please review the [Sexual Misconduct CUNY Policy](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/HR/Policy/Policy-Sexual-Misconduct.pdf?ext=.pdf).
 
 ## Instructor Biography
 
