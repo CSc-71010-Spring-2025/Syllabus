@@ -1,33 +1,5 @@
-# C SC 71010: Programming Languages
+# CSc 71010: Programming Languages
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center.
-
-## Table of Contents
-
-* [Details](#details)
-* [Course Description](#course-description)
-* [Topics](#topics)
-* [Suggested Previous Courses](#suggested-previous-courses)
-* [Textbooks and Materials](#textbooks-and-materials)
-* [Learning Goals](#learning-goals)
-* [Assessment](#assessment)
-* [Key Dates](#key-dates)
-* [Homework](#homework)
-    * [Notes](#notes)
-* [Exams](#exams)
-* [Attendance](#attendance)
-* [Academic Violations](#academic-violations)
-* [Discussion and Q&amp;A](#discussion-and-qa)
-* [Email](#email)
-* [Bulletin Board](#bulletin-board)
-* [Counseling &amp; Wellness Services](#counseling--wellness-services)
-* [Special Needs](#special-needs)
-* [ADA Compliance](#ada-compliance)
-* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-* [Sexual Misconduct](#sexual-misconduct)
-* [Syllabus Change Policy](#syllabus-change-policy)
-* [Instructor Biography](#instructor-biography)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Details 
 
@@ -38,8 +10,8 @@ Field | Value
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | (212) 650-3988
 **Office hours:** | F 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
-**Semester:** | Spring 2020
-**Section:** | C SC 71010 - 1
+**Semester:** | Fall 2021
+**Section:** | CSc 71010-1 (55067)
 
 ## Course Description
 
@@ -47,7 +19,7 @@ This course is intended to be a survey on the fundamental concepts and principle
 
 ## Topics
 
-Please note that this schedule is tentative and is meant to serve only as a guide:
+Please note that this schedule is tentative:
 
 - Attribute grammars 
 - Operational semantics for Lisp
@@ -56,28 +28,28 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Type systems
 - Concurrency and data structures for concurrent and distributed computing
 - Streaming APIs for mainstream Object-Oriented languages
-- Programming language concepts for Machine Learning (ML) systems.
+- Programming language concepts for Machine Learning (ML) and Deep Learning (DL) systems.
 
 ## Suggested Previous Courses
 
-- C Sc 70010: Algorithms
+- CSc 70010: Algorithms
 - Computer Theory or equivalent.
 
 ## Textbooks and Materials
 
-While there are no required texts, there are readings from the books listed below. All books are available at the library:
+While there are no required texts, there are readings from the books listed below. All books are available at the library, but please do not check them out from the GC library. I have entered a reservation request.
 
 Title | Author | ISBN
 -- | -- | --
-[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH001651241) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
-[Formal Syntax and Semantics of Programming Languages](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009388405) ([online](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Formal%20Syntax%20and%20Semantics%20of%20Programming%20Languages%20-%20Kenneth%20Slonneger.pdf)) | Slonneger and Kurtz | 9780201656978
-[The Formal Semantics of Programming Languages: An Introduction](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH003309033) | Winskel | 9780262231695
-[The Study of Programming Languages](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009388407) | Stansifer | 9780137269365
-[Types and Programming Languages](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH004613810) ([ebook](https://onesearch.cuny.edu/permalink/f/1hllol0/TN_pq_ebook_centralEBC3338823)) | Pierce | 9780262162098
-[Lisp 1.5 Programmer's Manual](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009406557) ([ebook](https://onesearch.cuny.edu/permalink/f/1hllol0/TN_dtic_sAD0406138), [online](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf)) | McCarthy et al. | 9780262130110
-[Semantics with Applications: A Formal Introduction](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009406540) ([online](http://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf)) | Nielson and Nielson | 9780471929802
-[Core Java SE 9 for the Impatient](https://onesearch.cuny.edu/permalink/f/qc1nfv/CUNY_ALEPH009063054) ([online](https://github.com/ppatil9096/books/blob/master/Core%20Java%20SE%209%20for%20the%20Impatient%2C%202nd%20Edition.pdf)) | Horstmann | 9780134694726
-[Structure and Interpretation of Computer Programs](https://onesearch.cuny.edu/permalink/f/6kkf0d/CUNY_ALEPH003877086) ([online](https://web.mit.edu/alexmv/6.037/sicp.pdf)) | Sussman and Abelson | 9780070004849
+[Formal Specification of Programming Languages: A Panoramic Primer](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990040389350106140) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
+[Formal Syntax and Semantics of Programming Languages](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990093884050106140) ([online](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Formal%20Syntax%20and%20Semantics%20of%20Programming%20Languages%20-%20Kenneth%20Slonneger.pdf)) | Slonneger and Kurtz | 9780201656978
+[The Formal Semantics of Programming Languages: An Introduction](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990033101260106140) | Winskel | 9780262231695
+[The Study of Programming Languages](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990093884070106140) | Stansifer | 9780137269365
+[Types and Programming Languages](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/l239s4/alma990093884140106140) | Pierce | 9780262162098
+[Lisp 1.5 Programmer's Manual](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/qt23uj/cdi_askewsholts_vlebooks_9780262287722) ([ebook](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/mjfrpc/alma990094065570106140), [online](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf)) | McCarthy et al. | 9780262130110
+[Semantics with Applications: A Formal Introduction](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/mjfrpc/alma990094065400106140) ([online](http://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf)) | Nielson and Nielson | 9780471929802
+[Core Java SE 9 for the Impatient](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990090630540106140) ([online](https://github.com/ontiyonke/book-1/blob/master/%5BJAVA%5D%5BCore%20Java%20SE%209%20for%20the%20Impatient%20(2nd%20Edition)%5D.pdf)) | Horstmann | 9780134694726
+[Structure and Interpretation of Computer Programs](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/l239s4/alma990094079920106140) ([online](https://web.mit.edu/alexmv/6.037/sicp.pdf)) | Sussman and Abelson | 9780070004849
 
 Please also refer to [my notes on type constraints][type constraints].
 
@@ -104,12 +76,14 @@ Final Exam | 25%
 
 Event | Date
 ----- | ----
-Presidents Day (no class) | Feb 17
-Midterm Exam | March 23
-Recess | April 8 - April 16
-Withdrawal Deadline | April 1
-Reading Day | May 15
-Final Exam | ? (May 16-22)
+No classes | Sep 3-8
+No classes | Sep 15-16
+Withdrawal deadline | Sep 15
+Columbus Day | Oct 11
+Midterm exam | Oct 27
+Thanksgiving day observed | Nov 25-26
+Reading day | Dec 14
+Final exam | ? (Dec 15-21)
 
 ## Homework
 
@@ -140,15 +114,9 @@ The classroom environment employed will be that of a professional one. While stu
 - [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
 - [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
 
-## Discussion and Q&A
-
-This term we will be using [Piazza](http://piazza.com/gc.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
-
-Find our class page [here](https://piazza.com/gc.cuny/spring2020/csc71010/home) and [sign up](https://piazza.com/gc.cuny/spring2020/csc71010) for the forum.
-
 ## Email
 
-Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+Emails to the instructor must be via a CUNY GC email address for FERPA reasons. Please post all class-related discussion on Bb. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
 
 ## Bulletin Board
 
@@ -208,10 +176,6 @@ Every member of The City University of New York community, including students, e
 1. Gathering and analyzing information and data that will be reviewed in order to improve safety, reporting, responsiveness and the resolution of incidents.
 
 Please review the [Sexual Misconduct CUNY Policy][https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/HR/Policy/Policy-Sexual-Misconduct.pdf?ext=.pdf].
-
-## Syllabus Change Policy
-
-Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will be informed about changes to the syllabus via class attendance.
 
 ## Instructor Biography
 
