@@ -83,7 +83,7 @@ Columbus Day | Oct 11
 Midterm exam | Oct 27
 Thanksgiving day observed | Nov 25-26
 Reading day | Dec 14
-Final exam | ? (Dec 15-21)
+Final exam | Dec 15
 
 ## Homework
 
