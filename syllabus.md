@@ -1,4 +1,5 @@
 # CSc 71010: Programming Languages
+
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center.
 
 ## Details 
@@ -6,12 +7,12 @@
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
-**Office:** | 1090H Hunter North Building
+**Office:** | TBD
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
-**Phone:** | (212) 650-3988
-**Office hours:** | F 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
-**Semester:** | Fall 2021
-**Section:** | CSc 71010-1 (55067)
+**Phone:** | TBD
+**Office hours:** | TBD
+**Semester:** | Spring 2025
+**Section:** | CSc 71010-01 (53327)
 
 ## Course Description
 
