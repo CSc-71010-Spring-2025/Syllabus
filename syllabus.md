@@ -115,7 +115,7 @@ The classroom environment employed will be that of a professional one. While stu
 
 ## Office Hours
 
-Office hours will be held in person twice a week. See Bb for details. Attending office hours is optional, no appointment is necessary, and appointments cannot be made during office hours. Students should arrange an alternative meeting time if the scheduled office hours conflict with their schedules.
+Office hours will be held in person once a week. See Bb for details. Attending office hours is optional, no appointment is necessary, and appointments cannot be made during office hours. Students should arrange an alternative meeting time if the scheduled office hours conflict with their schedules.
 
 ## Email
 
