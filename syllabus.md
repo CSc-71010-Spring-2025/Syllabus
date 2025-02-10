@@ -119,7 +119,7 @@ Office hours will be held in person once a week. See Bb for details. Attending o
 
 ## Email
 
-Emails to the instructor must be via a CUNY GC email address for FERPA reasons. Please post all class-related discussion on Bb. Also, please ensure that your *correct* email address is entered into the [CUNY Blackboard][Blackboard].
+Emails to the instructor must be via a CUNY GC email address for FERPA reasons. Please ensure that your *correct* email address is entered into the [CUNY Blackboard][Blackboard].
 
 ## Bulletin Board
 
