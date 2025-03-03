@@ -84,7 +84,7 @@ Final exam | May 19
 
 ## Homework
 
-The course will include several written assignments and programming projects. Each will be assigned in Blackboard along with submission instructions. Assignments will be uploaded to Blackboard and the programming projects will be uploaded to GitHub classroom and submitted via Gradescope. The exact instructions will follow. The projects must include command-line instructions on how to run the program.
+The course will include several written assignments and programming projects. Each will be assigned in Blackboard along with submission instructions. Assignments will be uploaded to Blackboard and the programming projects will be pushed to GitHub classroom. The exact instructions will follow. The projects must include command-line instructions on how to run the program.
 
 ### Notes
 
